@@ -1,7 +1,0 @@
-<p>E-mail: <a href="mailto:jedrzejcz424@gmail.com">jedrzejcz424@gmail.com</a></p>
-<p>Telefon: <a href="tel:790518370">790518370</a></p>
-<div class="projekty-lista">
-    <div class="projekt">
-        <img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-3bQkQwK6QwQwQwQwQwQwQw/user-3bQkQwK6QwQwQwQwQwQwQw/img-80EC8FE0-30ED-49E2-9924-072C581B8967.png" alt="Willa" style="max-width:100%;height:auto;">
-    </div>
-</div>
